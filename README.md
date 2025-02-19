@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there,
+My name's Lael Bec and I'm a computer science student at the University of Victoria. Below are some projects that I feel highlight my skills that I've learned over the past two years.
 
 ## Projects:
 ### [DynaSurvey: Efficient Data Processing](https://github.com/laellbec/DynaSurvey)
